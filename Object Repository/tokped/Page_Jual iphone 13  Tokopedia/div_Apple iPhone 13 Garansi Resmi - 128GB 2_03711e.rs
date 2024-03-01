@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apple iPhone 13 Garansi Resmi - 128GB 2_03711e</name>
+   <tag></tag>
+   <elementGuidId>4aeaec88-0348-44aa-88e0-2900ff97c0e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div[6]/div/div/div/div/div/div[2]/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71dcb258-e0da-4d53-807d-fcf1e26e7043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>cb0f93cd-3792-4707-8d9d-8286f7b30a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>541fd53b-3720-4d78-a5db-032f756c6d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB</value>
+      <webElementGuid>6cd30d89-3c1f-4b7a-af46-ec617ad22819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[4]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-llwpbs&quot;]/div[@class=&quot;css-54k5sq&quot;]/div[@class=&quot;css-uwyh54&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;prd_container-card css-126fhq2&quot;]/div[@class=&quot;pcv3__container css-1izdl9e&quot;]/div[@class=&quot;css-1asz3by&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>3385cdec-a97d-47a8-9f8b-0a5150ebd596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div[6]/div/div/div/div/div/div[2]/a/div[2]</value>
+      <webElementGuid>a840b596-e3ac-4e76-9abe-f140abb791ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Gadget Day'])[2]/following::div[1]</value>
+      <webElementGuid>a154d6c0-e9b3-46a1-ac09-d7f2bef67757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AppShoppe'])[1]/following::div[14]</value>
+      <webElementGuid>ca7984fb-5e2c-4415-a2ee-4644102058e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp9,62jt - Rp12,5jt'])[1]/preceding::div[1]</value>
+      <webElementGuid>dee1c4ee-7398-43e0-a1dc-04cfc1d84966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp15,1jt'])[1]/preceding::div[2]</value>
+      <webElementGuid>33bc427f-3d04-4469-9500-72b63f7b9ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB']/parent::*</value>
+      <webElementGuid>8f02d48d-448b-4533-9d10-b10fc0543cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div[2]/a/div[2]</value>
+      <webElementGuid>f7efb9aa-6243-434d-9e7b-2e2e2805adc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB' or . = 'Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB')]</value>
+      <webElementGuid>a1e1367b-eba9-43e9-a21c-964596aadb97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

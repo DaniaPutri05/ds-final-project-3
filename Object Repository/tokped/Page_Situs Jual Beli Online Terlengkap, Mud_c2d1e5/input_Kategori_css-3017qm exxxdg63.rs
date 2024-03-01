@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kategori_css-3017qm exxxdg63</name>
+   <tag></tag>
+   <elementGuidId>eefee68b-698a-4311-b44b-0833151e6f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.css-3017qm.exxxdg63</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='iphone 13']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>886e3165-3b3d-4d33-a93d-2423b2a8faad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>61628e3c-815c-4dad-935d-28df82a3744c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Cari di Tokopedia</value>
+      <webElementGuid>763dc0a4-b757-4aa2-9be2-007b35e19dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>43dc5b32-c3d9-41a7-bccc-c9f72791c83b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari di Tokopedia</value>
+      <webElementGuid>7104a700-a267-4403-857e-f25480001c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>iphone 13</value>
+      <webElementGuid>4c01895e-ea78-41c7-9075-84ac98bce1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3017qm exxxdg63</value>
+      <webElementGuid>33a5a0c5-1031-426d-bf0e-065c6a9c187a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-nlrenb&quot;]/div[@class=&quot;css-w3ze74&quot;]/div[@class=&quot;css-1ab7yqh&quot;]/div[@class=&quot;css-adxool&quot;]/div[@class=&quot;css-v1hkkg e1v32nag0&quot;]/input[@class=&quot;css-3017qm exxxdg63&quot;]</value>
+      <webElementGuid>31741a02-4f64-4edb-b89f-115c06809dd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='iphone 13']</value>
+      <webElementGuid>0e26a0fa-4184-461f-be56-eef002c692f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div[2]/div/div/div/div/input</value>
+      <webElementGuid>5d6a3c4d-85b4-44c8-87ea-98e712952d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>d55ec0b2-650e-4841-9838-81db3e6d1b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Cari di Tokopedia']</value>
+      <webElementGuid>30bd5d5e-77b3-45c0-a8b2-34cfb5ba6811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
